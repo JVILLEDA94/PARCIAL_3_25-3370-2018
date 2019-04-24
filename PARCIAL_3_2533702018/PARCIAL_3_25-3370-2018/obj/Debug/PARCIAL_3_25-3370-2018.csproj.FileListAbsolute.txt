@@ -1,0 +1,12 @@
+c:\users\lab3\documents\visual studio 2013\Projects\PARCIAL_3_25-3370-2018\PARCIAL_3_25-3370-2018\bin\Debug\PARCIAL_3_25-3370-2018.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\PARCIAL_3_25-3370-2018\PARCIAL_3_25-3370-2018\bin\Debug\PARCIAL_3_25-3370-2018.exe
+c:\users\lab3\documents\visual studio 2013\Projects\PARCIAL_3_25-3370-2018\PARCIAL_3_25-3370-2018\bin\Debug\PARCIAL_3_25-3370-2018.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\PARCIAL_3_25-3370-2018\PARCIAL_3_25-3370-2018\obj\Debug\PARCIAL_3_25-3370-2018.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\PARCIAL_3_25-3370-2018\PARCIAL_3_25-3370-2018\obj\Debug\PARCIAL_3_25_3370_2018.Form1.resources
+c:\users\lab3\documents\visual studio 2013\Projects\PARCIAL_3_25-3370-2018\PARCIAL_3_25-3370-2018\obj\Debug\PARCIAL_3_25_3370_2018.Form2.resources
+c:\users\lab3\documents\visual studio 2013\Projects\PARCIAL_3_25-3370-2018\PARCIAL_3_25-3370-2018\obj\Debug\PARCIAL_3_25_3370_2018.MDIParent1.resources
+c:\users\lab3\documents\visual studio 2013\Projects\PARCIAL_3_25-3370-2018\PARCIAL_3_25-3370-2018\obj\Debug\PARCIAL_3_25_3370_2018.Properties.Resources.resources
+c:\users\lab3\documents\visual studio 2013\Projects\PARCIAL_3_25-3370-2018\PARCIAL_3_25-3370-2018\obj\Debug\PARCIAL_3_25-3370-2018.csproj.GenerateResource.Cache
+c:\users\lab3\documents\visual studio 2013\Projects\PARCIAL_3_25-3370-2018\PARCIAL_3_25-3370-2018\obj\Debug\PARCIAL_3_25-3370-2018.exe
+c:\users\lab3\documents\visual studio 2013\Projects\PARCIAL_3_25-3370-2018\PARCIAL_3_25-3370-2018\obj\Debug\PARCIAL_3_25-3370-2018.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\PARCIAL_3_25-3370-2018\PARCIAL_3_25-3370-2018\obj\Debug\PARCIAL_3_25_3370_2018.Form3.resources
